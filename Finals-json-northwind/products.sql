@@ -1,0 +1,1 @@
+select row_to_json(products) as Products from "palma_northwind".products;

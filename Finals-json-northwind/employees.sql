@@ -1,0 +1,1 @@
+select row_to_json(employees) from "palma_northwind".employees;
